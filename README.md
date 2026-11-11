@@ -15,6 +15,16 @@ The project covers:
 - Model Evaluation
 
 ---
+### insights
+churn Rate Contract
+<img width="1327" height="765" alt="Screenshot 2026-11-11 123205" src="https://github.com/user-attachments/assets/f3920676-5ad0-4947-a706-7eca1ec1a83e" />
+tenure vs churn
+<img width="1302" height="727" alt="sum of tenure " src="https://github.com/user-attachments/assets/263a39b2-d3a8-48da-ae9a-92cfb3037182" />
+
+ROC curve
+<img width="762" height="757" alt="ROC" src="https://github.com/user-attachments/assets/a6ecd986-9ce6-4ba0-b606-dca0e059603f" />
+
+
 
 ## 🎯 Problem Statement
 
